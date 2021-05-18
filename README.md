@@ -1,4 +1,3 @@
 # ByLearnJornadaPythonFaixaPreta
-Eu fiz um calculo do IMC
+Eu fiz um calculo do IMC usando funções.
 
-Eu fiz  usando funções
